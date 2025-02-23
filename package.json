@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/Utils.js",
+  "types": "types/Utils.d.ts",
   "author": "Antonio Alencar Velozo",
   "type": "module",
   "scripts": {},
